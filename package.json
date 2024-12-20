@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "api_yt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "moment": "^2.30.1",
+    "play-dl": "^1.9.7",
+    "uuid": "^11.0.3",
+    "youtube-search-api": "^1.2.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
